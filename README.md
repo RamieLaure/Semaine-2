@@ -1,8 +1,8 @@
 # Semaine-2
-# Contenu de la deuxième semanie de cours
+# Deuxième semanie de cours
 
 
-## Exercices de la semaine
+## Contenu :
 
 * Obtenir des badges HTML sur Codecademy
 
@@ -11,6 +11,6 @@
 * Créer une première version de mon CV en HTML
 
 
-## Codecademy
+## Exercices n°1 et 2 : Codecademy
 
 [Badges obtenus] (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
