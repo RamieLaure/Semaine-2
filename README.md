@@ -13,4 +13,4 @@
 
 ## Codecademy
 
-{Badges obtenus} (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
+[Badges obtenus] (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
