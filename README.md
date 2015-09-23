@@ -11,6 +11,6 @@
 * Créer une première version de mon CV en HTML
 
 
-## Badges obtenus sur Codecademy
+## Codecademy
 
-! { Badges} (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
+{Badges obtenus} (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
