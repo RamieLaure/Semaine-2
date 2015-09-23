@@ -1,5 +1,5 @@
 # Semaine-2
-#titre Contenu de la deuxième semane de cours
+# Contenu de la deuxième semanie de cours
 
 
 ## Exercices de la semaine
