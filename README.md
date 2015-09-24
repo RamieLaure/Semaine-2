@@ -1,5 +1,5 @@
 # Semaine-2
-# Deuxième semanie de cours
+# Deuxième semaine de cours
 
 
 ## Contenu :
