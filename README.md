@@ -1,4 +1,4 @@
-# Semaine-2
+# Semaine2
 # Deuxième semaine de cours
 
 
@@ -30,12 +30,11 @@
         Chargée de projet </h1>
     </header>
     
-    
     <main>
         <h2> Expérience professionnelle </h2>
             
             <h3> Depuis 2011 - Chargée de projet veille </h3>
-            Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche - Délégation à la communication
+                Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche - Délégation à la communication
                 <ul> Veille stratégique & e-reputation
                     <li> Défintion et mise en place de l’offre de service </li>
                     <li> Conception er réalisation des livrables d’analyse : rapport thématique, baromètre d’image, vigie signal faible, alerte, cartographie des  communautés </li>
@@ -49,7 +48,7 @@
                 </ul>
             
             <h3> Depuis 2011 - Rédactrice freelance </h3>
-            Haidi Milic Communication
+                 Haidi Milic Communication
                 <ul> Rédaction
                     <li> Réalisation de chroniques d’ouvrages littéraires pour un magazine professionnel à destination des libraires indépenants (6 numéros par an) </li>
                     <li> Relecture et correction des épreuves </li>
