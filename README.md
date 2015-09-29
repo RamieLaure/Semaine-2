@@ -21,7 +21,8 @@
 ## Exercices n° 3 : Créer une première version de CV en HTML
 
 # CV
-< ! DOCTYPE html>
+
+<!DOCTYPE html>
 <html>
     <header> 
         <h1> Marie-Laure Le Néannec
