@@ -1,26 +1,22 @@
 # Semaine2
 # Deuxième semaine de cours
 
-
 ## Résumé des exercices :
-
-* Exercices N°1 et n°2 : obtenir les badges HTML et CSS sur Codecademy
-
-* Exercices N°3 : s'entraîner à nouveau sur GitHub et ICloud 9 en créant un deuxième repository "Semaine2" et un README.md avec le lien vers mes badges de Codecademy
-
-* Exercices N°4 : créer une première version de mon CV en HTML
-
+* Exercices n°1 et n°2 : obtenir les badges HTML et CSS sur Codecademy
+* Exercice n°3 : s'entraîner à nouveau sur GitHub et ICloud 9 en créant un deuxième repository "Semaine2" et un README.md avec le lien vers mes badges de Codecademy
+* Exercice n°4 : créer une première version de mon CV en HTML
 
 ## Exercices n° 1 et 2 : Badges HTML & CSS "Codecademy"
 * [Badges obtenus en HTML & CSS] (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
 
+## Exercice n°3 : créer un deuxième repository "Semaine2"
+* Et voila le travail !
 
-## Exercices n° 4 : Créer une première version de CV en HTML
-
+## Exercice n° 4 : Créer une première version de CV en HTML
 <!DOCTYPE html>
 <html>
     <header> 
-        <h1> Marie-Laure Le Néannec
+        <h1> MLN
         <br>
         Chargée de projet veille </h1>
     </header>
