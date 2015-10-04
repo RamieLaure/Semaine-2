@@ -2,37 +2,31 @@
 # Deuxième semaine de cours
 
 
-## Contenu :
+## Résumé des exercices :
 
-* Obtenir des badges HTML sur Codecademy
+* Exercices N°1 et n°2 : obtenir les badges HTML et CSS sur Codecademy
 
-* S'entraîner à nouveau sur GitHub et ICloud 9 en créant un deuxième repository "Semaine2" et un README.md avec le lien vers mes badges de Codecademy
+* Exercices N°3 : s'entraîner à nouveau sur GitHub et ICloud 9 en créant un deuxième repository "Semaine2" et un README.md avec le lien vers mes badges de Codecademy
 
-* Créer une première version de mon CV en HTML
-
-
-
-## Exercices n° 1 et 2 : Codecademy
-
-[Badges obtenus] (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
+* Exercices N°4 : créer une première version de mon CV en HTML
 
 
+## Exercices n° 1 et 2 : Badges HTML & CSS "Codecademy"
+* [Badges obtenus en HTML & CSS] (https://www.codecademy.com/fr/users/systemMaster85614/achievements)
 
-## Exercices n° 3 : Créer une première version de CV en HTML
 
-# CV
+## Exercices n° 4 : Créer une première version de CV en HTML
 
 <!DOCTYPE html>
 <html>
     <header> 
         <h1> Marie-Laure Le Néannec
         <br>
-        Chargée de projet </h1>
+        Chargée de projet veille </h1>
     </header>
     
     <main>
         <h2> Expérience professionnelle </h2>
-            
             <h3> Depuis 2011 - Chargée de projet veille </h3>
                 Ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche - Délégation à la communication
                 <ul> Veille stratégique & e-reputation
@@ -65,11 +59,13 @@
 
         <h2> Formation </h2>
             <h3> Depuis 2011 </h3> <ul> <li> Formation professionnelle "Community Management " - Agence IDAOS </li>
-             <li> Formation professionnelle "Maitrise des marchés publics" - Mission des achats (Ministère de l'Education) </li> </ul>
+             <li> Formation professionnelle "Maitrise des marchés publics" - Mission des achats (Ministère de l'Education) </li> 
+             </ul>
 
             <h3> 2005-2006 </h3> Master 2 Professionnel Droit & Administration           
              <ul> <li> Spécialisation "Gestion de projet" </li>
-             <li> Université de Bourgogne  - IUFR de Sciences Politiques </li> </ul>          
+             <li> Université de Bourgogne  - IUFR de Sciences Politiques </li> 
+             </ul>          
     </main>
 
     <footer>
