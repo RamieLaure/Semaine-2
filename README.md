@@ -65,9 +65,7 @@
     </main>
 
     <footer>
-        Marie-Laure Le Néannec
-        <br>
-        @leneannec
+        MLN
     </footer>
 
 </html>
